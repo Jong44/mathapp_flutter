@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:math/View/HomePage.dart';
+import 'package:math/View/MateriPage.dart';
 import 'package:math/View/SplashScreen.dart';
 
 void main() {

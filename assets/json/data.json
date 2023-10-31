@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "title": "Menghitung Sudut Segitiga",
+    "description" : "Cara menghitung sudut segitiga dengan cepat",
+    "materi": [
+      {
+        "id": 1,
+        "title": "Tentukan Sudut Segitiga",
+        "image": "assets/images/materi/1.png",
+        "content": "Segitiga yang diketahui memiliki sudut apa saja, dari besar salah satu sudut  segitiga dapat membantu mencari sudut yang ditanyakan "
+      },
+      {
+        "id": 2,
+        "title": "Banyak sudut yang diketahui",
+        "image": "assets/images/materi/2.png",
+        "content": "Segitiga yang diketahui memiliki sudut apa saja, dari besar salah satu sudut  segitiga dapat membantu mencari sudut yang ditanyakan "
+      },
+      {
+        "id": 3,
+        "title": "Mencari sudut yang tidak diketahui",
+        "image": "assets/images/materi/3.png",
+        "content": "Segitiga yang diketahui memiliki sudut apa saja, dari besar salah satu sudut  segitiga dapat membantu mencari sudut yang ditanyakan "
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/1.png",
+        "a": "50",
+        "b": "35",
+        "c": "45",
+        "d": "80",
+        "key": "b"
+      },
+      {
+        "id": 2,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/2.png",
+        "a": "90",
+        "b": "100",
+        "c": "110",
+        "d": "40",
+        "key": "b"
+      },
+      {
+        "id": 3,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/3.png",
+        "a": "90",
+        "b": "30",
+        "c": "60",
+        "d": "80",
+        "key": "c"
+      },
+      {
+        "id": 4,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/4.png",
+        "a": "50",
+        "b": "35",
+        "c": "45",
+        "d": "80",
+        "key": "d"
+      },
+      {
+        "id": 5,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/5.png",
+        "a": "55",
+        "b": "45",
+        "c": "35",
+        "d": "60",
+        "key": "b"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Jenis Jenis Sudut",
+    "description" : "Cara menghitung sudut segitiga dengan cepat",
+    "materi": [
+      {
+        "id": 1,
+        "title": "Tentukan Sudut Segitiga",
+        "image": "assets/images/materi/1.png",
+        "content": "Segitiga yang diketahui memiliki sudut apa saja, dari besar salah satu sudut  segitiga dapat membantu mencari sudut yang ditanyakan "
+      },
+      {
+        "id": 2,
+        "title": "Banyak sudut yang diketahui",
+        "image": "assets/images/materi/2.png",
+        "content": "Segitiga yang diketahui memiliki sudut apa saja, dari besar salah satu sudut  segitiga dapat membantu mencari sudut yang ditanyakan "
+      },
+      {
+        "id": 3,
+        "title": "Mencari sudut yang tidak diketahui",
+        "image": "assets/images/materi/3.png",
+        "content": "Segitiga yang diketahui memiliki sudut apa saja, dari besar salah satu sudut  segitiga dapat membantu mencari sudut yang ditanyakan "
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/1.png",
+        "a": "50",
+        "b": "35",
+        "c": "45",
+        "d": "80",
+        "key": "b"
+      },
+      {
+        "id": 2,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/2.png",
+        "a": "90",
+        "b": "100",
+        "c": "110",
+        "d": "40",
+        "key": "b"
+      },
+      {
+        "id": 3,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/3.png",
+        "a": "90",
+        "b": "30",
+        "c": "60",
+        "d": "80",
+        "key": "c"
+      },
+      {
+        "id": 4,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/4.png",
+        "a": "50",
+        "b": "35",
+        "c": "45",
+        "d": "80",
+        "key": "d"
+      },
+      {
+        "id": 5,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/5.png",
+        "a": "55",
+        "b": "45",
+        "c": "35",
+        "d": "60",
+        "key": "b"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Jenis Jenis Segitiga",
+    "description" : "Cara menghitung sudut segitiga dengan cepat",
+    "materi": [
+      {
+        "id": 1,
+        "title": "Tentukan Sudut Segitiga",
+        "image": "assets/images/materi/1.png",
+        "content": "Segitiga yang diketahui memiliki sudut apa saja, dari besar salah satu sudut  segitiga dapat membantu mencari sudut yang ditanyakan "
+      },
+      {
+        "id": 2,
+        "title": "Banyak sudut yang diketahui",
+        "image": "assets/images/materi/2.png",
+        "content": "Segitiga yang diketahui memiliki sudut apa saja, dari besar salah satu sudut  segitiga dapat membantu mencari sudut yang ditanyakan "
+      },
+      {
+        "id": 3,
+        "title": "Mencari sudut yang tidak diketahui",
+        "image": "assets/images/materi/3.png",
+        "content": "Segitiga yang diketahui memiliki sudut apa saja, dari besar salah satu sudut  segitiga dapat membantu mencari sudut yang ditanyakan "
+      }
+    ],
+    "quiz": [
+      {
+        "id": 1,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/1.png",
+        "a": "50",
+        "b": "35",
+        "c": "45",
+        "d": "80",
+        "key": "b"
+      },
+      {
+        "id": 2,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/2.png",
+        "a": "90",
+        "b": "100",
+        "c": "110",
+        "d": "40",
+        "key": "b"
+      },
+      {
+        "id": 3,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/3.png",
+        "a": "90",
+        "b": "30",
+        "c": "60",
+        "d": "80",
+        "key": "c"
+      },
+      {
+        "id": 4,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/4.png",
+        "a": "50",
+        "b": "35",
+        "c": "45",
+        "d": "80",
+        "key": "d"
+      },
+      {
+        "id": 5,
+        "question": "Berapa besar sudut x",
+        "image": "assets/images/quiz/5.png",
+        "a": "55",
+        "b": "45",
+        "c": "35",
+        "d": "60",
+        "key": "b"
+      }
+    ]
+  }
+]
